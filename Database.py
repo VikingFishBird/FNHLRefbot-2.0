@@ -80,6 +80,7 @@ def updateGoalieCSV():
     return
 
 # gamelog
+# you'll have to change these to your credentials
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets', "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
 
 creds = ServiceAccountCredentials.from_json_keyfile_name('fnhlcreds.json', scope)

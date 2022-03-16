@@ -1,0 +1,83 @@
+pass,Playmaker (F),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-310|Clean,311-400|Sloppy,401-425|Offsides,426-480|Turnover,481-499|Penalty,500-500|OppGoal
+pass,Sniper (F),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-270|Clean,271-390|Sloppy,391-415|Offsides,416-480|Turnover,481-499|Penalty,500-500|OppGoal
+pass,Dangler (F),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-280|Clean,281-395|Sloppy,396-420|Offsides,421-480|Turnover,481-499|Penalty,500-500|OppGoal
+pass,Offensive Defenseman (D),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-310|Clean,311-400|Sloppy,401-425|Offsides,426-480|Turnover,481-499|Penalty,500-500|OppGoal
+pass,Two-Way Defenseman (D),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-270|Clean,271-390|Sloppy,391-415|Offsides,416-480|Turnover,481-499|Penalty,500-500|OppGoal
+pass,Finesser (D),0-0|Goal,1-15|Breakaway,16-25|TwoClean,25-280|Clean,281-395|Sloppy,396-420|Offsides,421-480|Turnover,481-499|Penalty,500-500|OppGoal
+deke,Playmaker (F),0-0|Goal,1-15|Breakaway,16-45|TwoDeke,46-280|DekeSuccess,281-480|DekeFail,481-499|Penalty,500-500|OppGoal
+deke,Sniper (F),0-0|Goal,1-15|Breakaway,16-45|TwoDeke,46-280|DekeSuccess,281-480|DekeFail,481-499|Penalty,500-500|OppGoal
+deke,Dangler (F),0-0|Goal,1-15|Breakaway,16-65|TwoDeke,66-300|DekeSuccess,301-480|DekeFail,481-499|Penalty,500-500|OppGoal
+deke,Offensive Defenseman (D),0-0|Goal,1-15|Breakaway,16-45|TwoDeke,46-280|DekeSuccess,281-480|DekeFail,481-499|Penalty,500-500|OppGoal
+deke,Two-Way Defenseman (D),0-0|Goal,1-15|Breakaway,16-45|TwoDeke,46-280|DekeSuccess,281-480|DekeFail,481-499|Penalty,500-500|OppGoal
+deke,Finesser (D),0-0|Goal,1-15|Breakaway,16-65|TwoDeke,66-300|DekeSuccess,301-480|DekeFail,481-499|Penalty,500-500|OppGoal
+shot,0,Playmaker (F),ingoal,0-20|Goal,21-120|Rebound,121-325|Save,326-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Playmaker (F),ingoal,0-68|Goal,69-172|Rebound,172-332|Save,333-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Playmaker (F),ingoal,0-108|Goal,109-184|Rebound,185-338|Save,339-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Playmaker (F),ingoal,0-137|Goal,138-250|Rebound,251-355|Save,356-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Playmaker (F),ingoal,0-160|Goal,161-257|Rebound,258-358|Save,359-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Playmaker (F),pulled,0-23|Goal,24-124|Rebound,125-333|Save,334-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Playmaker (F),pulled,0-74|Goal,75-177|Rebound,178-338|Save,339-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Playmaker (F),pulled,0-117|Goal,118-189|Rebound,190-346|Save,347-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Playmaker (F),pulled,0-149|Goal,150-262|Rebound,263-371|Save,372-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Playmaker (F),pulled,0-171|Goal,172-269|Rebound,270-372|Save,373-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Sniper (F),ingoal,0-32|Goal,33-145|Rebound,146-367|Save,368-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Sniper (F),ingoal,0-74|Goal,75-205|Rebound,206-360|Save,361-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Sniper (F),ingoal,0-125|Goal,126-215|Rebound,216-367|Save,368-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Sniper (F),ingoal,0-160|Goal,161-268|Rebound,269-373|Save,374-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Sniper (F),ingoal,0-186|Goal,184-285|Rebound,286-388|Save,389-475|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Sniper (F),pulled,0-36|Goal,37-150|Rebound,151-373|Save,374-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Sniper (F),pulled,0-84|Goal,85-218|Rebound,219-368|Save,369-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Sniper (F),pulled,0-133|Goal,134-223|Rebound,224-378|Save,379-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Sniper (F),pulled,0-175|Goal,176-277|Rebound,278-382|Save,383-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Sniper (F),pulled,0-198|Goal,199-295|Rebound,296-385|Save,386-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Dangler (F),ingoal,0-22|Goal,23-125|Rebound,126-332|Save,333-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Dangler (F),ingoal,0-70|Goal,71-175|Rebound,176-335|Save,336-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Dangler (F),ingoal,0-114|Goal,115-189|Rebound,190-346|Save,347-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Dangler (F),ingoal,0-145|Goal,145-262|Rebound,263-361|Save,362-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Dangler (F),ingoal,0-167|Goal,163-267|Rebound,268-366|Save,367-475|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Dangler (F),pulled,0-26|Goal,27-131|Rebound,132-339|Save,340-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Dangler (F),pulled,0-77|Goal,78-180|Rebound,181-342|Save,343-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Dangler (F),pulled,0-120|Goal,121-195|Rebound,196-360|Save,361-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Dangler (F),pulled,0-157|Goal,158-269|Rebound,270-376|Save,377-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Dangler (F),pulled,0-175|Goal,176-274|Rebound,275-376|Save,377-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Offensive Defenseman (D),ingoal,0-17|Goal,18-110|Rebound,111-315|Save,316-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Offensive Defenseman (D),ingoal,0-63|Goal,64-155|Rebound,156-318|Save,319-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Offensive Defenseman (D),ingoal,0-108|Goal,109-180|Rebound,181-328|Save,329-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Offensive Defenseman (D),ingoal,0-128|Goal,129-245|Rebound,246-350|Save,351-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Offensive Defenseman (D),ingoal,0-150|Goal,149-240|Rebound,241-345|Save,346-475|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Offensive Defenseman (D),pulled,0-20|Goal,21-114|Rebound,115-319|Save,320-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Offensive Defenseman (D),pulled,0-69|Goal,70-166|Rebound,167-330|Save,331-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Offensive Defenseman (D),pulled,0-113|Goal,114-189|Rebound,190-340|Save,341-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Offensive Defenseman (D),pulled,0-140|Goal,141-251|Rebound,252-363|Save,364-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Offensive Defenseman (D),pulled,0-165|Goal,166-265|Rebound,266-378|Save,379-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Two-Way Defenseman (D),ingoal,0-25|Goal,26-130|Rebound,131-350|Save,351-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Two-Way Defenseman (D),ingoal,0-72|Goal,73-195|Rebound,196-348|Save,349-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Two-Way Defenseman (D),ingoal,0-120|Goal,121-202|Rebound,203-353|Save,354-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Two-Way Defenseman (D),ingoal,0-153|Goal,154-261|Rebound,262-367|Save,368-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Two-Way Defenseman (D),ingoal,0-175|Goal,176-272|Rebound,273-375|Save,376-475|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Two-Way Defenseman (D),pulled,0-27|Goal,28-133|Rebound,134-352|Save,353-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Two-Way Defenseman (D),pulled,0-77|Goal,78-201|Rebound,202-358|Save,359-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Two-Way Defenseman (D),pulled,0-128|Goal,129-218|Rebound,219-361|Save,362-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Two-Way Defenseman (D),pulled,0-171|Goal,172-270|Rebound,271-375|Save,376-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Two-Way Defenseman (D),pulled,0-190|Goal,191-284|Rebound,285-381|Save,382-480|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Finesser (D),ingoal,0-19|Goal,20-116|Rebound,117-323|Save,324-480|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Finesser (D),ingoal,0-65|Goal,66-166|Rebound,167-325|Save,326-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Finesser (D),ingoal,0-105|Goal,106-178|Rebound,179-324|Save,325-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Finesser (D),ingoal,0-134|Goal,135-249|Rebound,250-351|Save,352-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Finesser (D),ingoal,0-156|Goal,156-248|Rebound,249-352|Save,353-475|Block,481-499|Penalty,500-500|OppGoal
+shot,0,Finesser (D),pulled,0-23|Goal,24-120|Rebound,121-330|Save,331-475|Block,481-499|Penalty,500-500|OppGoal
+shot,1,Finesser (D),pulled,0-73|Goal,74-175|Rebound,176-334|Save,335-480|Block,481-499|Penalty,500-500|OppGoal
+shot,2,Finesser (D),pulled,0-115|Goal,116-185|Rebound,186-338|Save,339-480|Block,481-499|Penalty,500-500|OppGoal
+shot,3,Finesser (D),pulled,0-147|Goal,148-258|Rebound,259-367|Save,368-480|Block,481-499|Penalty,500-500|OppGoal
+shot,4,Finesser (D),pulled,0-164|Goal,165-267|Rebound,268-380|Save,381-480|Block,481-499|Penalty,500-500|OppGoal
+penalty,Playmaker (F),0-175|goal,176-500|save
+penalty,Sniper (F),0-190|goal,191-500|save
+penalty,Dangler (F),0-160|goal,161-500|save
+penalty,Offensive Defenseman (D),0-175|goal,176-500|save
+penalty,Two-Way Defenseman (D),0-190|goal,191-500|save
+penalty,Finesser (D),0-160|goal,161-500|save
+pass,pulled,0-0|Goal,0-20|Breakaway,21-40|TwoClean,41-320|Clean,321-410|Sloppy,411-435|Offsides,436-480|Turnover,481-499|Penalty,500-500|OppGoal
+shot,0,open,0-60|Goal,61-170|Rebound,171-475|Block,476-499|Penalty,500-500|OppGoal
+shot,1,open,0-175|Goal,176-270|Rebound,271-475|Block,476-499|Penalty,500-500|OppGoal
+shot,2,open,0-250|Goal,251-350|Rebound,351-475|Block,476-499|Penalty,500-500|OppGoal
+shot,3,open,0-350|Goal,351-425|Rebound,426-475|Block,476-499|Penalty,500-500|OppGoal
